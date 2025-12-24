@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "Long Way Down",
+  "base_artist": "One Direction",
+  "createdAt": "2025-12-24T14:32:34.218909Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Long Way Down",
+      "artist": "Black Rebel Motorcycle Club",
+      "has_synced": false,
+      "path": "select/01_Long_Way_Down_Black_Rebel_Motorcycle_Club.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Baby, It's A Long Way Down",
+      "artist": "Candy Butchers",
+      "has_synced": false,
+      "path": "select/02_Baby,_It's_A_Long_Way_Down_Candy_Butchers.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Long Way Down - 2009 Remastered Version",
+      "artist": "Mr. Big",
+      "has_synced": false,
+      "path": "select/03_Long_Way_Down_-_2009_Remastered_Version_Mr._Big.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Long Way Down - 2009 Remastered Version (2009 Remastered Version)",
+      "artist": "Mr. Big",
+      "has_synced": false,
+      "path": "select/04_Long_Way_Down_-_2009_Remastered_Version_(2009_Remastered_Version)_Mr._Big.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Long Way Down",
+      "artist": "Goo Goo Dolls",
+      "has_synced": true,
+      "path": "select/05_Long_Way_Down_Goo_Goo_Dolls.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Long Way Down",
+      "artist": "The Goo Goo Dolls",
+      "has_synced": true,
+      "path": "select/06_Long_Way_Down_The_Goo_Goo_Dolls.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Long Way Down",
+      "artist": "Kiss",
+      "has_synced": false,
+      "path": "select/07_Long_Way_Down_Kiss.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Long Way Down",
+      "artist": "Becca Mancari",
+      "has_synced": false,
+      "path": "select/08_Long_Way_Down_Becca_Mancari.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Long Way Down (Intro)",
+      "artist": "Ruby Waters",
+      "has_synced": true,
+      "path": "select/09_Long_Way_Down_(Intro)_Ruby_Waters.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Long Way Down (Live: Milwaukee 7/7/95)",
+      "artist": "The Goo Goo Dolls",
+      "has_synced": false,
+      "path": "select/10_Long_Way_Down_(Live__Milwaukee_7_7_95)_The_Goo_Goo_Dolls.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Long Way Down - Live",
+      "artist": "Goo Goo Dolls",
+      "has_synced": true,
+      "path": "select/11_Long_Way_Down_-_Live_Goo_Goo_Dolls.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Long Way Down (Live)",
+      "artist": "The Goo Goo Dolls",
+      "has_synced": true,
+      "path": "select/12_Long_Way_Down_(Live)_The_Goo_Goo_Dolls.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Long Way Down",
+      "artist": "The Happy Fits",
+      "has_synced": true,
+      "path": "select/13_Long_Way_Down_The_Happy_Fits.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Long Way Down",
+      "artist": "Sara Evans",
+      "has_synced": true,
+      "path": "select/14_Long_Way_Down_Sara_Evans.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Long Way Down",
+      "artist": "Pete Yorn",
+      "has_synced": true,
+      "path": "select/15_Long_Way_Down_Pete_Yorn.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Long Way Down",
+      "artist": "Keyshia Cole",
+      "has_synced": true,
+      "path": "select/16_Long_Way_Down_Keyshia_Cole.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "1% (The Long Way Down)",
+      "artist": "God Lives Underwater",
+      "has_synced": true,
+      "path": "select/17_1__(The_Long_Way_Down)_God_Lives_Underwater.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Long Way Down - Remix",
+      "artist": "Goo Goo Dolls",
+      "has_synced": true,
+      "path": "select/18_Long_Way_Down_-_Remix_Goo_Goo_Dolls.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Long Way Down (Remix)",
+      "artist": "Goo Goo Dolls",
+      "has_synced": true,
+      "path": "select/19_Long_Way_Down_(Remix)_Goo_Goo_Dolls.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "LONG WAY DOWN",
+      "artist": "One Direction",
+      "has_synced": false,
+      "path": "select/pl_01_LONG_WAY_DOWN_One_Direction.txt"
+    }
+  ]
+}
